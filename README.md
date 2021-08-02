@@ -17,9 +17,9 @@ Using data provided by Citi and their New York City bike share program, we will 
 ![Ride Time](https://github.com/rulma/Bikeshare/blob/77023619df4f6edc4fe7d7bbe92936fbed25f247/breakdown%20of%20trip%20time.PNG)
 #### Average Ride Time by Gender
 ![Gender Ride Time](https://github.com/rulma/Bikeshare/blob/77023619df4f6edc4fe7d7bbe92936fbed25f247/Breakdown%20of%20trip%20down%20gender.PNG)
-#### Trip Time Weekly Heat Map
+#### Peak Hours by Weekday
 ![Heat](https://github.com/rulma/Bikeshare/blob/main/Peak%20Trip%20hours.PNG)
-#### Trip Time Weekly Heat Map by Gender
+#### Peak Hours by Weekday and Gender
 ![Heat G](https://github.com/rulma/Bikeshare/blob/77023619df4f6edc4fe7d7bbe92936fbed25f247/Peak%20Trip%20Hours%20by%20Gender.PNG)
 
 ## Summary
