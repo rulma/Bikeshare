@@ -9,6 +9,6 @@ Using data provided by Citi and their New York City bike share program, we will 
 ## Results
 
 ### Mapping Popular Start Locations
-[Map](https://github.com/rulma/Bikeshare/blob/dff062ae6397e91765f03657879d3e4e78ecb3ac/Map.PNG)
+[https://github.com/rulma/Bikeshare/blob/dff062ae6397e91765f03657879d3e4e78ecb3ac/Map.PNG](https://github.com/rulma/Bikeshare/blob/dff062ae6397e91765f03657879d3e4e78ecb3ac/Map.PNG)
 
 ## Summary
