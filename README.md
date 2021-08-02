@@ -11,8 +11,13 @@ Using data provided by Citi and their New York City bike share program, we will 
 #### Mapping Popular Start Locations
 ![Map](https://github.com/rulma/Bikeshare/blob/dff062ae6397e91765f03657879d3e4e78ecb3ac/Map.PNG)
 
+Here we can see where the most popular starting locaitons are for riders. As we can see the majority of the largest circles are congregted on the southern tip of Manhattan. This makes sense as this is the central commerical district for New York City.
+
 #### Peak Hours
 ![Hours](https://github.com/rulma/Bikeshare/blob/77023619df4f6edc4fe7d7bbe92936fbed25f247/Peak%20August%20Hours.PNG)
+
+Displayed here is the peak hours for August displayed on a horizontal bar chart. Each bar indicates and hour on the 24-hour time scale. As you would expect bike rides are at their lowest in the early morning hours and highest during major commuting times.
+
 #### Average Ride Time
 ![Ride Time](https://github.com/rulma/Bikeshare/blob/77023619df4f6edc4fe7d7bbe92936fbed25f247/breakdown%20of%20trip%20time.PNG)
 #### Average Ride Time by Gender
